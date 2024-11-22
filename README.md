@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [JARVIS](https://github.com/KrishnaSrinivas-24/JARVIS)
 
-- 🌱 I’m currently learning **DSA , C , PYTHON**
+- 🌱 I’m currently learning **DSA , C , PYTHON , AI **
 
 - 📫 How to reach me **krishnasrinivas2409@gmail.com**
 
